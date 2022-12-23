@@ -12,7 +12,6 @@ export default function Hero() {
         <p>"Our mission is to support the families and victims of gun violence with healing and assistance through
             mortuary care, legal advocacy, counseling services and more."</p>
         <div className="btn">
-          <a href="#">Services</a>
           <form action="https://www.paypal.com/donate" method="post" target="_top">
             <input type="hidden" name="business" value="H5C5UX2ECXE54" />
             <input type="hidden" name="no_recurring" value="1" />

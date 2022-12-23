@@ -1,9 +1,8 @@
 import * as React from 'react';
-import "./RS.css"
 
 export default function RS() {
     return (
-      <section class="bg-white dark:bg-gray-900">
+    <section className="text-gray-700 body-font relative">
       <nav x-data="{ isOpen: false }" class="container p-6 mx-auto lg:flex lg:justify-between lg:items-center">
          
       </nav>

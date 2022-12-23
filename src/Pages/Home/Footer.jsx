@@ -10,12 +10,12 @@ export default function Footer() {
   <div className="footer__addr">
     <h1 className="footer__logo"></h1>
         
-    <h2>Contact</h2>
+    <img src="https://scontent.fcmh1-1.fna.fbcdn.net/v/t39.30808-6/310554146_159438173397714_7013024384196446488_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Nn4TQgZxaE8AX9e9UVJ&_nc_ht=scontent.fcmh1-1.fna&oh=00_AfDeL5uos2NMssJUwLBgeO23kVU9isEZ-26PTV4Z6W78GA&oe=63A6BB82" width="40px" height="40px" alt=""/>
     
     <address>
-      Robertos Heart<br/>
+      Roberto's Heart<br/>
           
-      <a className="footer__btn" href="mailto:example@gmail.com">Email Us</a>
+      <a className="footer__btn" href="mailto:example@gmail.com">Contact Us</a>
     </address>
   </div>
   
